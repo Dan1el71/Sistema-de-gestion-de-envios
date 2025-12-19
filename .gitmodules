@@ -10,3 +10,6 @@
 [submodule "order-mfe"]
 	path = order-mfe
 	url = https://github.com/Dan1el71/order-mfe.git
+[submodule "quotation-mfe"]
+	path = quotation-mfe
+	url = https://github.com/Dan1el71/quotation-mfe.git
