@@ -1,0 +1,12 @@
+[submodule "tracking-mfe"]
+	path = tracking-mfe
+	url = https://github.com/Dan1el71/tracking-mfe.git
+[submodule "auth-mfe"]
+	path = auth-mfe
+	url = https://github.com/Dan1el71/auth-mfe.git
+[submodule "shell-mfe"]
+	path = shell-mfe
+	url = https://github.com/Dan1el71/shell-mfe.git
+[submodule "order-mfe"]
+	path = order-mfe
+	url = https://github.com/Dan1el71/order-mfe.git
